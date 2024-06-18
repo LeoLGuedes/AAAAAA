@@ -97,6 +97,27 @@ span {
     padding-top: 100px;
 }
 
+#xp-criativa .container-section {
+    margin-top: 24px;
+}
+
+#lg-matematica .container-section .item{
+    margin-top: 5px;
+    display: block;
+}
+
+#lg-matematica .descricao {
+    padding: 24px;
+    margin: auto auto;
+    width: 80%;
+    margin-left: 64px;
+}
+
+#lg-matematica .descricao-img {
+    margin: auto auto;
+    width: 500px;
+}
+
 .descricao-img {
     display: flex;
     width: 200px;
