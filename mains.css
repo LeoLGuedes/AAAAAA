@@ -10,7 +10,8 @@
 
 body {
     background-image: url(./image/paisagem-w.jpg);
-
+    height: 100vh;
+    background-position: center
 }
 
 .containerX {
@@ -38,6 +39,23 @@ body {
     border-radius: 8px;
 }
 
+#about {
+    display: block;
+}
+
+#about h2 {
+    margin: auto;
+    text-align: center;
+    padding: 32px;
+    width: 90%;
+    border-bottom: 1px solid antiquewhite;
+    margin-bottom: 96px;
+}
+
+.inicio-flex {
+    display: flex;
+    width: 100%;
+}
 
 .section-blur {
     display: flex;
